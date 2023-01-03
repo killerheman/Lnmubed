@@ -73,59 +73,54 @@
                                         <a href="javascript:;">
                                             <div class="slider__imgcontrol"
                                                 style="background-image:
-                                                        url({{ asset('home/images/bannerimage1.jpg') }});background-size:cover;">
+                                                        url({{ asset('home/images/slider/slider1.jpeg') }});background-size:cover;background-position:center;">
                                                 <div class="container">
-                                                    <h2 class="banner__heading">The
-                                                        Champions
-                                                        of
-                                                        Technology</h2>
+                                                    <h2 class="banner__heading">National Seminar</h2>
                                                 </div>
                                             </div>
                                         </a>
                                         <a href="javascript:;">
                                             <div class="slider__imgcontrol"
                                                 style="background-image:
-                                                        url({{ asset('home/images/bannerimage2.jpg') }});background-size:cover;">
+                                                        url({{ asset('home/images/slider/slider2.jpg') }});background-size:cover;">
                                                 <div class="container">
-                                                    <h2 class="banner__heading">Incubating
-                                                        Minds</h2>
+                                                    <h2 class="banner__heading">Foundation Day</h2>
                                                 </div>
                                             </div>
                                         </a>
                                         <a href="javascript:;">
                                             <div class="slider__imgcontrol"
                                                 style="background-image:
-                                                        url({{ asset('home/images/bannerimage3.jpg') }});background-size:cover;">
+                                                        url({{ asset('home/images/slider/slider3.jpg') }});background-size:cover;">
                                                 <div class="container">
-                                                    <h2 class="banner__heading">Catalyzing
-                                                        Careers</h2>
+                                                    <h2 class="banner__heading">Welcome to LNMUBED</h2>
                                                 </div>
                                             </div>
                                         </a>
                                         <a href="javascript:;">
                                             <div class="slider__imgcontrol"
                                                 style="background-image:
-                                                        url({{ asset('home/images/bannerimage4.jpg') }});background-size:cover;">
+                                                        url({{ asset('home/images/slider/slider4.jpeg') }});background-size:cover;">
                                                 <div class="container">
-                                                    <h2 class="banner__heading">The
-                                                        Best
-                                                        of
-                                                        the
-                                                        Best</h2>
+                                                    <h2 class="banner__heading">Blood Donation Camp</h2>
                                                 </div>
                                             </div>
                                         </a>
                                         <a href="javascript:;">
                                             <div class="slider__imgcontrol"
                                                 style="background-image:
-                                                        url({{ asset('home/images/bannerimage5.jpg') }});background-size:cover;">
+                                                        url({{ asset('home/images/slider/slider5.jpg') }});background-size:cover;">
                                                 <div class="container">
-                                                    <h2 class="banner__heading">No.
-                                                        1
-                                                        for
-                                                        5
-                                                        Years
-                                                        Running...</h2>
+                                                    <h2 class="banner__heading">LNMUBED Cultural Programme</h2>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a href="javascript:;">
+                                            <div class="slider__imgcontrol"
+                                                style="background-image:
+                                                        url({{ asset('home/images/slider/slider6.jpg') }});background-size:cover;">
+                                                <div class="container">
+                                                    <h2 class="banner__heading">Republic Day Celebration</h2>
                                                 </div>
                                             </div>
                                         </a>
