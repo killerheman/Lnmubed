@@ -11,10 +11,10 @@
                     </div>
                     <ul class="header__topleftmenu" style="color:white;">
                         <li><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;<a
-                                href="#">user.jpg@gmail.com</a>
+                                href="mailto:info@lnmubed.ac.in">info@lnmubed.ac.in</a>
                         </li>
                         <li><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;<a href="Tel:+1234567890">
-                                8010109090, 9582801526
+                            7631192896
                             </a></li>
                     </ul>
                 </div>
@@ -24,8 +24,12 @@
                         <ul class="header__language">
                             <li data-drupal-language="hi" data-drupal-link-system-path="&lt;front&gt;"
                                 class="hi menuitem"><a href="hi.html" class="language-link" hreflang="hi"
-                                    data-drupal-link-system-path="&lt;front&gt;">Today's Date -
+                                    data-drupal-link-system-path="&lt;front&gt;">Date -
                                     {{ Carbon\Carbon::now()->format('d/m/Y') }}</a></li>
+
+                            <li style="color:white; " >
+                               <a href="https://mail.hostinger.com/" target="_blank" title="Mail Login">&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-envelope fa-2x " aria-hidden="true"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>

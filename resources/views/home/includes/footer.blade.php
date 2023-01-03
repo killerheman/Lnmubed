@@ -20,6 +20,9 @@
                     <p><i class="fa fa-angle-right" id="fafa"></i>Committee &
                         Cell</p>
                 </li>
+                <li>
+                    <p ><i class="fa fa-angle-right" id="fafa"></i>Mail Login</p>
+                </li>
             </ul>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3">

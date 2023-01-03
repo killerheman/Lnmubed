@@ -157,6 +157,11 @@
                     <span>AQAR</span>
                 </a>
             </div>
+            <div class="col-sm-3">
+                <a href="#" class="btn3 btn-lg">
+                    <span>E-Learning</span>
+                </a>
+            </div>
         </div>
     </div>
     <!-- Add-on Section end -->
@@ -169,30 +174,14 @@
                 <div class="text-effect">
                     <span>Welcome to LNMUBED Department</span>
                 </div>
-                <h3 class="m-1">We provide a high
+                {{-- <h3 class="m-1">We provide a high
                     quality and academically
                     rigorous education with in a
                     caring and personalized
-                    setting.</h3>
+                    setting.</h3> --}}
                 <div class="col-lg-12 text-center">
-                    <br>
-                    <p>LNMUBED
-                        College of Education –
-                        Darbhanga,Bihar, one of the
-                        premier Institutions in the
-                        field of Teacher Education
-                        came into existence in the
-                        year 2004 with the B.Ed (200
-                        seats) course recognised by
-                        NCTE that prepares Teachers
-                        for upper primary or middle
-                        level, secondary level, and
-                        senior secondary level.
-                        Besides preparing Teacher
-                        Educators it also aims at
-                        preparing educational
-                        administrators, supervisors,
-                        and researchers.</p>
+                    <br><br/><br><br/><br><br/><br><br/><br>
+                    <p>B.Ed. (Regular) course was started by the Directorate of Distance Education, L. N. Mithila University, Darbhanga in 2012 with due approval from Lalit Narayan Mithila University and recognition by the apex body of Teacher Education, the National Council for Teacher Education (NCTE), Ministry of Human Resource Development, Government of India, New Delhi.</p>
                 </div>
                 <div class="container-fluid mt-5">
                     <div class="row">
@@ -308,7 +297,7 @@
                         <img src="{{ asset('home/images/headbed.jpg') }}" class="img-responsive" alt="featured">
                     </div>
                     <div class="featured-content-holder" style="padding:10px;">
-                        <h3><a class="text-center" href="#">Prof. Arvind Kumar
+                        <h3><a class="text-center" href="#">Dr. Arvind Kumar
                                 Milan</a></h3>
                         <!--<p> process of... <a class="btn btn-primary"-->
                         <!--        href="#">Read-->
@@ -356,7 +345,7 @@
                     <div class="featured-content-holder">
                         <h3 class="text-center"><a href="#">Prof. Dolly Sinha</a>
                         </h3>
-                        <p class="text-center">(PRO-VICE CHANCELLOR)</p>
+                        <p class="text-center">(PRO-VICE CHANCELLOR, LNMU)</p>
                     </div>
                 </div>
             </div>
@@ -368,7 +357,7 @@
                             style="height:300px;width:300px;">
                     </div>
                     <div class="featured-content-holder">
-                        <h3 class="text-center"><a href="#">Dr. Mushtaque Ahmad</a>
+                        <h3 class="text-center"><a href="#">Prof. Mushtaque Ahmad</a>
                         </h3>
                         <p class="text-center">(REGISTRAR, LNMU)</p>
                     </div>
@@ -382,7 +371,7 @@
                             alt="featured" style="height:300px;width:300px;">
                     </div>
                     <div class="featured-content-holder">
-                        <h3 class="text-center"><a href="#">Dr. Ashok Kumar
+                        <h3 class="text-center"><a href="#">Prof. Ashok Kumar
                                 Mehta</a></h3>
                         <p class="text-center">(Director-DDE)</p>
                     </div>

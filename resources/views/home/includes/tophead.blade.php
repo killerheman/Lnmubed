@@ -17,7 +17,7 @@
             </div>
             <div class="col-xs-6 col-sm-9 col-lg-8">
                 <div>
-                    <h1 class="h1">Bachelor of Education (B.Ed)</h1>
+                    <h1 class="h1">Bachelor of Education (B.Ed.)</h1>
                     <p style="margin-left: 7vw;" class="h5">Directorate
                         Of Distance Education</p>
                     <p class="h5">Lalit Narayan Mithila University
