@@ -68,10 +68,10 @@
                     </ul>
                 </li>
                 <li class="navigation__submenudropdown ">
-                    <a href="javascript:;">Programme</a>
+                    <a href="{{ route('programmes') }}">Programme</a>
                 </li>
                 <li class="navigation__submenudropdown ">
-                    <a href="javascript:;">Faculty </a>
+                    <a href="{{ route('faculty') }}">Faculty </a>
                 </li>
                 <li class="navigation__submenudropdown ">
                     <a href="javascript:;">Admission</a>
@@ -125,7 +125,17 @@
                     </ul>
                 </li>
                 <li class="navigation__submenudropdown ">
+<<<<<<< Updated upstream
                     <a href="{{route('contact')}}">Contact Us</a>
+=======
+                    <a href="javascript:;">Contact Us</a>
+                    <ul class="navigation__submenu">
+                        <li class=" ">
+                            <a href="{{route('contact')}}">Contact Us</a>
+                        </li>
+
+                    </ul>
+>>>>>>> Stashed changes
                 </li>
 
             </ul>

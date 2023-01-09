@@ -53,7 +53,7 @@ class HomeController extends Controller
         return view('home.head');
     }
 
-    
+
     public function contact()
     {
         return view('home.contact');
@@ -66,7 +66,7 @@ class HomeController extends Controller
             'message'=>'required',
             'mobile'=>'required'
         ]);
-        
+
         $contact=ContactUs::create([
             'name'=>$request->name,
             'email'=>$request->email,
@@ -75,5 +75,15 @@ class HomeController extends Controller
         ]);
 
         return redirect()->back()->with('success','Contact Sent Successfully');
+    }
+
+    public function programmes()
+    {
+        return view('home.programme');
+    }
+
+    public function faculty()
+    {
+        return view('home.faculty');
     }
 }
