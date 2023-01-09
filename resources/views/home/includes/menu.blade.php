@@ -125,17 +125,7 @@
                     </ul>
                 </li>
                 <li class="navigation__submenudropdown ">
-<<<<<<< Updated upstream
                     <a href="{{route('contact')}}">Contact Us</a>
-=======
-                    <a href="javascript:;">Contact Us</a>
-                    <ul class="navigation__submenu">
-                        <li class=" ">
-                            <a href="{{route('contact')}}">Contact Us</a>
-                        </li>
-
-                    </ul>
->>>>>>> Stashed changes
                 </li>
 
             </ul>
