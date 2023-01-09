@@ -128,6 +128,7 @@
                     <a href="{{route('contact')}}">Contact Us</a>
                 </li>
 
+
             </ul>
         </nav>
     </div>
