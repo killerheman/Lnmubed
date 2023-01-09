@@ -20,7 +20,7 @@
 <div class="inner-page-banner-area" style="background-image: url('{{ asset('home/FrontAssets/img/banner/about-us.jpg') }}');">
     <div class="container">
         <div class="pagination-area">
-            <h1>Contact Campus</h1>
+            <h1>Contact Us</h1>
             <ul>
                 <li><a href="#">Home</a> -</li>
                 <li>Contact Us</li>
@@ -30,7 +30,7 @@
 </div>
 
 <div class="container">
-    <h2 class="text-center text-effect">Contact Campus</h2>
+    <h2 class="text-center text-effect">Contact Us</h2>
     <div class="row text-justify" style="margin-top: 50px;">
         <div class="col-sm-8">
             <div class="card">

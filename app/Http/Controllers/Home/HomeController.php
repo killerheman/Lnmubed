@@ -74,6 +74,6 @@ class HomeController extends Controller
             'mobile'=>$request->mobile,
         ]);
 
-        return redirect()->back()->with('success','Data added Successfully');
+        return redirect()->back()->with('success','Contact Sent Successfully');
     }
 }

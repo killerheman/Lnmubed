@@ -125,13 +125,7 @@
                     </ul>
                 </li>
                 <li class="navigation__submenudropdown ">
-                    <a href="javascript:;">Contact Us</a>
-                    <ul class="navigation__submenu">
-                        <li class=" ">
-                            <a href="{{route('contact')}}">Contact Us</a>
-                        </li>
-                        
-                    </ul>
+                    <a href="{{route('contact')}}">Contact Us</a>
                 </li>
 
             </ul>
