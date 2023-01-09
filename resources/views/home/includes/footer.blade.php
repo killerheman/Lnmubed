@@ -4,7 +4,7 @@
             <h3 class="text-uppercase mb-4 text-white hr">Useful Links</h3>
             <ul class="list-unstyled">
                 <li>
-                    <p><i class="fa fa-angle-right" id="fafa"></i>About Us</p>
+                <a href="{{route('about')}}"><p><i class="fa fa-angle-right" id="fafa"></i>About Us</p></a>
                 </li>
                 <li>
                     <p><i class="fa fa-angle-right" id="fafa"></i>Department
@@ -21,7 +21,7 @@
                         Cell</p>
                 </li>
                 <li>
-                    <p ><i class="fa fa-angle-right" id="fafa"></i>Mail Login</p>
+                <a href="https://mail.hostinger.com"><p ><i class="fa fa-angle-right" id="fafa"></i>Mail Login</p></a>
                 </li>
             </ul>
         </div>
@@ -66,7 +66,7 @@
         <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3">
             <h3 class="text-uppercase mb-4 text-white hr">Address</h3>
 
-            <h3 class="text-align-center">Directorate of distance education</h3>
+            <h3 class="text-align-center">Directorate of Distance Education</h3>
             <p class="text-align-center"><small>Lalit Narayan Mithila University
                     Kameshwaranagar, Darbhanga, Bihar 846004, India<small></p>
             <h4 class="text-align-center"><strong>Toll Free

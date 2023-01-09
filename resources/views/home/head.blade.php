@@ -25,7 +25,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
             <div class="lecturers-contact-info">
             <img src="{{ asset('home/images/headbed.jpg')}}" class="img-responsive" alt="team">
-            <h2>Prof. Arvind Kumar Milan</h2>
+            <h2>Dr. Arvind Kumar Milan</h2>
             <h3>Head</h3>
             </div>
             </div>

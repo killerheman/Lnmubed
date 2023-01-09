@@ -17,6 +17,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/organogram', [HomeController::class, 'organogram'])->name('organogram');
 Route::get('/about', [HomeController::class, 'about'])->name('about');
+Route::get('/contact', [HomeController::class, 'contact'])->name('contact');
+Route::post('contact-store',[HomeController::class,'contactStore'])->name('contactStore');
 Route::get('/vision-mission', [HomeController::class, 'visionMission'])->name('visionMission');
 Route::get('/vice-chancellor', [HomeController::class, 'viceChancellor'])->name('viceChancellor');
 Route::get('/pro-vice-chancellor', [HomeController::class, 'proViceChancellor'])->name('proViceChancellor');

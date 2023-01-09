@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Home;
 
 use App\Http\Controllers\Controller;
+use App\Models\ContactUs;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -50,5 +51,29 @@ class HomeController extends Controller
     public function head()
     {
         return view('home.head');
+    }
+
+    
+    public function contact()
+    {
+        return view('home.contact');
+    }
+
+    public function contactStore(Request $request){
+        $request->validate([
+            'name'=>'required',
+            'email'=>'required',
+            'message'=>'required',
+            'mobile'=>'required'
+        ]);
+        
+        $contact=ContactUs::create([
+            'name'=>$request->name,
+            'email'=>$request->email,
+            'message'=>$request->message,
+            'mobile'=>$request->mobile,
+        ]);
+
+        return redirect()->back()->with('success','Data added Successfully');
     }
 }

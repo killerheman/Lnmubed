@@ -120,7 +120,7 @@
                                                 style="background-image:
                                                         url({{ asset('home/images/slider/slider6.jpg') }});background-size:cover;">
                                                 <div class="container">
-                                                    <h2 class="banner__heading">Republic Day Celebration</h2>
+                                                    <h2 class="banner__heading">Independence Day Celebration</h2>
                                                 </div>
                                             </div>
                                         </a>
@@ -368,7 +368,7 @@
                     <div class="featured-content-holder">
                         <h3 class="text-center"><a href="#">Prof. Ashok Kumar
                                 Mehta</a></h3>
-                        <p class="text-center">(Director-DDE)</p>
+                        <p class="text-center">(Director, DDE, LNMU)</p>
                     </div>
                 </div>
             </div>
@@ -387,12 +387,12 @@
                 <li>
                     <div class="card border-0">
                         <div class="ratio ratio-1x1">
-                            <img src="{{ asset('home/images/event/event1.jpg') }}" class="card-img-top" loading="lazy"
+                            <img src="{{ asset('home/images/slider/slider1.jpeg') }}" class="card-img-top" loading="lazy"
                                 alt="...">
                         </div>
                         <div class="card-body p-0 pt-2">
                             <div class="d-flex text-center">
-                                <h3 class="flex-grow-1">Event 1</h3>
+                                <h3 class="flex-grow-1">National Seminar</h3>
                             </div>
                         </div>
                     </div>
@@ -400,12 +400,12 @@
                 <li>
                     <div class="card border-0">
                         <div class="ratio ratio-1x1">
-                            <img src="{{ asset('home/images/event/event2.jpg') }}" class="card-img-top" loading="lazy"
+                            <img src="{{ asset('home/images/slider/slider2.jpg') }}" class="card-img-top" loading="lazy"
                                 alt="...">
                         </div>
                         <div class="card-body p-0 pt-2">
                             <div class="d-flex text-center">
-                                <h3 class="flex-grow-1">Event 2</h3>
+                                <h3 class="flex-grow-1">Foundation Day</h3>
                             </div>
                         </div>
                     </div>
@@ -413,12 +413,12 @@
                 <li>
                     <div class="card border-0">
                         <div class="ratio ratio-1x1">
-                            <img src="{{ asset('home/images/event/event3.jpg') }}" class="card-img-top" loading="lazy"
+                            <img src="{{ asset('home/images/slider/slider3.jpg') }}" class="card-img-top" loading="lazy"
                                 alt="...">
                         </div>
                         <div class="card-body p-0 pt-2">
                             <div class="d-flex text-center">
-                                <h3 class="flex-grow-1">Event 3</h3>
+                                <h3 class="flex-grow-1">Foundation Day</h3>
                             </div>
                         </div>
                     </div>
@@ -426,12 +426,12 @@
                 <li>
                     <div class="card border-0">
                         <div class="ratio ratio-1x1">
-                            <img src="{{ asset('home/images/event/event4.jpg') }}" class="card-img-top" loading="lazy"
+                            <img src="{{ asset('home/images/slider/slider4.jpeg') }}" class="card-img-top" loading="lazy"
                                 alt="...">
                         </div>
                         <div class="card-body p-0 pt-2">
                             <div class="d-flex text-center">
-                                <h3 class="flex-grow-1">Event 4</h3>
+                                <h3 class="flex-grow-1">Blood Donation Camp</h3>
                             </div>
                         </div>
                     </div>
@@ -439,12 +439,12 @@
                 <li>
                     <div class="card border-0">
                         <div class="ratio ratio-1x1">
-                            <img src="{{ asset('home/images/event/event5.jpg') }}" class="card-img-top" loading="lazy"
+                            <img src="{{ asset('home/images/slider/slider5.jpg') }}" class="card-img-top" loading="lazy"
                                 alt="...">
                         </div>
                         <div class="card-body p-0 pt-2">
                             <div class="d-flex text-center">
-                                <h3 class="flex-grow-1">Event 5</h3>
+                                <h3 class="flex-grow-1">Foundation Day</h3>
                             </div>
                         </div>
                     </div>
@@ -452,38 +452,12 @@
                 <li>
                     <div class="card border-0">
                         <div class="ratio ratio-1x1">
-                            <img src="{{ asset('home/images/event/event6.jpg') }}" class="card-img-top" loading="lazy"
+                            <img src="{{ asset('home/images/slider/slider6.jpg') }}" class="card-img-top" loading="lazy"
                                 alt="...">
                         </div>
                         <div class="card-body p-0 pt-2">
                             <div class="d-flex text-center">
-                                <h3 class="flex-grow-1">Event 6</h3>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="card border-0">
-                        <div class="ratio ratio-1x1">
-                            <img src="{{ asset('home/images/event/event7.jpg') }}" class="card-img-top" loading="lazy"
-                                alt="...">
-                        </div>
-                        <div class="card-body p-0 pt-2">
-                            <div class="d-flex text-center">
-                                <h3 class="flex-grow-1">Event 7</h3>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="card border-0">
-                        <div class="ratio ratio-1x1">
-                            <img src="{{ asset('home/images/event/event8.jpg') }}" class="card-img-top" loading="lazy"
-                                alt="...">
-                        </div>
-                        <div class="card-body p-0 pt-2">
-                            <div class="d-flex text-center">
-                                <h3 class="flex-grow-1">Event 8</h3>
+                                <h3 class="flex-grow-1">Independence Day Celebration</h3>
                             </div>
                         </div>
                     </div>
