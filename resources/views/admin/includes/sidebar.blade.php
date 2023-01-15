@@ -4,10 +4,11 @@
         <!-- Dark Logo-->
         <a href="#" class="logo logo-dark">
             <span class="logo-sm">
-                <img src="{{ asset('frontend/assets/images/cmlogo.png') }}" alt="" height="50">
+                <img src="{{ asset('home/themes/custom/iitm/assets/images/logo.png') }}" alt="" height="50">
             </span>
             <span class="logo-lg">
-                <img src="{{ asset('frontend/assets/images/cmlogo.png') }}" alt="" height="80"></span>
+                <img src="{{ asset('home/themes/custom/iitm/assets/images/logo.png') }}" alt="" height="50">
+            <b style="color: black;">LnmuBed</b>
             </span>
         </a>
 
