@@ -77,6 +77,7 @@ Route::get('/optimize', function(){
 });
 Route::get('/optimize-clear', function(){
     Artisan::call('optimize:clear');
+    
 });
 
 
