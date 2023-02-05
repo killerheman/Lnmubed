@@ -29,6 +29,15 @@
     </div>
 </div>
 
+
+<div class="inner-page-banner-area" style="background-image: url('{{ asset('home/images/contactbg.jpg') }}');background-size:cover;">
+    <div class="container">
+        <div class="pagination-area">
+            <h3 class="text-center">Contact Emails - info@lnmubed.ac.in </h3>
+        </div>
+    </div>
+</div>
+
 <div class="container">
     <h2 class="text-center text-effect">Contact Us</h2>
     <div class="row text-justify" style="margin-top: 50px;">

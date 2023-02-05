@@ -24,8 +24,8 @@
         <div class="row" style="margin-top: 50px;">
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
             <div class="lecturers-contact-info">
-            <img src="{{ asset('home/images/distance_education.jpeg')}}" class="img-responsive" alt="team">
-            <h2>Prof. Ashok Kumar Mehta</h2>
+            <img src="{{ asset('home/images/hksingh.jpg')}}" class="img-responsive" alt="team">
+            <h2>Prof. H.K. Singh</h2>
             <h3>Director (DDE)</h3>
             </div>
             </div>

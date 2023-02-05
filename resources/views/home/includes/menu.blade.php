@@ -79,25 +79,16 @@
                         <li class=" ">
                             <a href="#">Admission Details</a>
                         </li>
-                        <!--<li class=" ">-->
-                        <!--    <a-->
-                        <!--        href="#">Master of Education (M.ED)</a>-->
-                        <!--</li>-->
                         <li class=" ">
                             <a href="#">Fees structure</a>
                         </li>
-                        <!-- <li class=" ">-->
-                        <!--    <a-->
-                        <!--        href="#">Certificate Course-Functional English</a>-->
-                        <!--</li>-->
-                        <!--<li class=" ">-->
-                        <!--    <a-->
-                        <!--        href="#">Certificate Course-Counselling for Teachers</a>-->
-                        <!--</li>-->
+                        <li class=" ">
+                            <a href="#">Pay Fee</a>
+                        </li>
                     </ul>
                 </li>
                 <li class="navigation__submenudropdown ">
-                    <a href="javascript:;">Infrastructure</a>
+                    <a href="javascript:;">Facilities</a>
                     <ul class="navigation__submenu">
                         <li class=" ">
                             <a href="#">Library</a>
@@ -107,9 +98,6 @@
                         </li>
                         <li class=" ">
                             <a href="#">Language Lab</a>
-                        </li>
-                        <li class=" ">
-                            <a href="#">Curriculum Lab</a>
                         </li>
                     </ul>
                 </li>

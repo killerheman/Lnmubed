@@ -30,22 +30,22 @@
 
             <ul class="list-unstyled">
                 <li>
-                    <p><i class="fa fa-angle-right" id="fafa"> NCTE</i></p>
+                    <a href="https://ncte.gov.in/website/index.aspx"><p><i class="fa fa-angle-right" id="fafa"></i>NCTE</p></a>
                 </li>
                 <li>
-                    <p><i class="fa fa-angle-right" id="fafa"></i>UGC</p>
+                    <a href="https://www.ugc.ac.in/"><p><i class="fa fa-angle-right" id="fafa"></i>UGC</p></a>
                 </li>
                 <li>
-                    <p><i class="fa fa-angle-right" id="fafa"></i>NCERT</p>
+                    <a href="https://ncert.nic.in/"><p><i class="fa fa-angle-right" id="fafa"></i>NCERT</p></a>
                 </li>
                 <li>
-                    <p><i class="fa fa-angle-right" id="fafa"></i>CERT Patana</p>
+                    <a href="https://scert.bihar.gov.in/"><p><i class="fa fa-angle-right" id="fafa"></i>SCERT Patna</p></a>
                 </li>
                 <li>
-                    <p><i class="fa fa-angle-right" id="fafa"></i>LNMU</p>
+                    <a href="https://lnmu.ac.in/"><p><i class="fa fa-angle-right" id="fafa"></i>LNMU</p></a>
                 </li>
                 <li>
-                    <p><i class="fa fa-angle-right" id="fafa"></i>NIRF</p>
+                    <a href="https://www.nirfindia.org/"><p><i class="fa fa-angle-right" id="fafa"></i>NIRF</p></a>
                 </li>
             </ul>
         </div>

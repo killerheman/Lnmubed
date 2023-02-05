@@ -107,8 +107,8 @@
 </div>
 
 <div class="container" style="margin-top: 50px;">
-    <div class="row">
-        <div class="col-md-4 col-sm-6">
+    <div class="row" style="margin-bottom: 50px;">
+        <div class="col-md-3 col-sm-6 ">
             <div class="box">
                 <img src="{{ asset('home/images/headbed.jpg') }}">
                 <div class="box-content">
@@ -119,6 +119,207 @@
             <div class="text-center">
                 <h3 class="title">Dr. Arvind Kumar Milan</h3>
                 <span style="font-size: 20px;">Head</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Dr. Nidhi Vatsa</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Dr. Nidhi Vatsa</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Dr. Shubhra</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Dr. Shubhra</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Dr. Kumari Swarn Rekha</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Dr. Kumari Swarn Rekha</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-bottom: 50px;">
+        <div class="col-md-3 col-sm-6 ">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Mr. Uday Kumar</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Mr. Uday Kumar</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Mr. Kumar Satyam</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Mr. Kumar Satyam</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Dr. Mirza Ruhullah Baig</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Dr. Mirza Ruhullah Baig</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Mr. Govind Kumar</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Mr. Govind Kumar</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-bottom: 50px;">
+        <div class="col-md-3 col-sm-6 ">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Dr. Jai Shanker Singh</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Dr. Jai Shanker Singh</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Dr. Reshma Tabassum</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Dr. Reshma Tabassum</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Ms. Kiran Kumari</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Ms. Kiran Kumari</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Mr. Prasenjit Roy</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Mr. Prasenjit Roy</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-bottom: 50px;">
+        <div class="col-md-3 col-sm-6 ">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Dr. Kumari Babita Rani</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Dr. Kumari Babita Rani</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Mr. Sunil Kumar Gupta</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Mr. Sunil Kumar Gupta</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Mr. Raju Kumar</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Mr. Raju Kumar</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="box">
+                <img src="{{ asset('home/images/user.jpg') }}">
+                <div class="box-content">
+                    <h3 class="title">Mr. Subhag Lal Das</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <h3 class="title">Mr. Subhag Lal Das</h3>
+                <span style="font-size: 20px;">Assistant Professor</span>
             </div>
         </div>
     </div>

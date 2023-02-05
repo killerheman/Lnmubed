@@ -362,12 +362,11 @@
                         event-inner-area ">
                 <div class="featured-box card">
                     <div class="featured-img-holder">
-                        <img src="{{ asset('home/images/distance_education.jpeg') }}" class="img-responsive"
+                        <img src="{{ asset('home/images/hksingh.jpg') }}" class="img-responsive"
                             alt="featured" style="height:300px;width:300px;">
                     </div>
                     <div class="featured-content-holder">
-                        <h3 class="text-center"><a href="#">Prof. Ashok Kumar
-                                Mehta</a></h3>
+                        <h3 class="text-center"><a href="#">Prof. H.K. Singh</a></h3>
                         <p class="text-center">(Director, DDE, LNMU)</p>
                     </div>
                 </div>
